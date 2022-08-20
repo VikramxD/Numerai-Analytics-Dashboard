@@ -1,7 +1,18 @@
-Numerai Analytics Dashboard
-==============================
+<h1>Numerai Analytics Dashboard </h1>
 
-A Dashboard for Analyzing Numerai Data which is constantly changing
+
+A fully automated GUI based Dashboard for Analyzing and Modelling of Numerai Live Data which is constantly changing 
+
+
+<h2>About Numerai</h2>
+The Numerai Tournament is where you build machine learning models on abstract financial data to predict the stock market. Your models can be staked with the NMR cryptocurrency to earn rewards based on performance.
+The staked models of Numerai are combined to form the Meta Model which controls the capital of the Numerai hedge fund across the global stock market.
+
+
+
+<h2>Numerai Tournament Overview</h2>
+
+The objective is to build a model to predict the future target using live features that correspond to the current stock market.
 
 Project Organization
 ------------
@@ -54,4 +65,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
